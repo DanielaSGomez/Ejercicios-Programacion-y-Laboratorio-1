@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553516674 source:c:\danielagomez\ejercicios-programacion-y-laboratorio-1\clasefunciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
