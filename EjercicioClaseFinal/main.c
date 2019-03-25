@@ -3,6 +3,7 @@
 
 int pedirNota(void);
 int aprobarMateria(int notaMinima, int nota);
+void ejerciciouno(void);
 
 int main()
 {
@@ -10,10 +11,11 @@ int main()
     int aprobo;
     int noAprobo;
     resultado = pedirNota();
-    printf("La nota final es: %d", resultado);
+
     aprobo = aprobarMateria(6,2);
     noAprobo = aprobarMateria(6,8);
-
+    printf("La nota final es: %d", resultado);
+    printf()
 }
 
 int pedirNota()
@@ -40,6 +42,12 @@ int aprobarMateria()
         {
             return 0;
         }
+
+
+}
+
+void ejerciciouno()
+{
 
 
 }
