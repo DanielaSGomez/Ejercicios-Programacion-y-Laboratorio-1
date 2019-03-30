@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1553956720 source:c:\users\alumno\desktop\nueva carpeta\ejemplopunteros\funciones.c
+
+1553956868 source:c:\users\alumno\desktop\nueva carpeta\ejemplopunteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1553956564 c:\users\alumno\desktop\nueva carpeta\ejemplopunteros\biblioteca.h
+
